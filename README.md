@@ -123,17 +123,9 @@ O bot precisa das seguintes permissões:
 - Criação de enquetes
 - Sistema de música (em desenvolvimento)
 
-## 🤝 Contribuindo
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`)
-3. Faça commit das suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Faça Push para a Branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
 ## 📫 Suporte
 - Reporte bugs através das [issues](https://github.com/ViniciusAndrey/YnivBot/issues)
 - Para sugestões, abra uma [nova issue](https://github.com/ViniciusAndrey/YnivBot/issues/new)
-- Junte-se ao nosso [servidor Discord](seu-link-de-convite)
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
